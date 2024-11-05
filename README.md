@@ -32,6 +32,7 @@ The main source of the data is SalesData.csv given in class specifically for thi
 These are some of the codes, queries and DAX expressions employed in the courese of the analyis:
 
 ```SQL
+Select * 
 ```
 
 ### Data Visualisation
