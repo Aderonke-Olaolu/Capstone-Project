@@ -8,3 +8,14 @@ This data analysis seeks to provide insights into the sales performance of a ret
 
 ### Data Sources
 The main source of the data is SalesData.csv given in class specifically for this project.
+
+### Tools Used
+- Microsoft Excel [download here](https://www.microsoft.com)
+  1. data cleaning
+  2. analysis and
+  3. visualisation
+  
+- SQL- Structured Query Language for Querying of Data
+- PowerBI for for further analysis and Visualization of insights from excel and SQL
+- GitHub fro Portfolio Building
+
