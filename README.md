@@ -48,9 +48,6 @@ Select *
 ```
 
 ### Data Visualisation
-FDKJDFKFLKDFLKDM
-
-
 
  
 
