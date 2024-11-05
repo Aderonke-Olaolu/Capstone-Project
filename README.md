@@ -3,12 +3,18 @@ Final LITA Project with Incubator Hub
 
 ### Project Title: Sales Data Anaalysis
 
-Project Overview
+[Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
+
 [Tools Used](#tools-used)
+
 [Data Exploration](#data-exploration)
+
 [Data Analysis](#data-analysis)
-[Data Visualisation](#data-visuaisation)
+
+[Data Visualisation](#data-visualisation)
+
 ### Project Overview
 This data analysis seeks to provide insights into the sales performance of a retail store for the years 2023 and 2024. The analysis will focus on identifying key findings, including top-selling products, regional performance, and monthly sales trends.
 
