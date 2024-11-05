@@ -19,3 +19,25 @@ The main source of the data is SalesData.csv given in class specifically for thi
 - PowerBI for for further analysis and Visualization of insights from excel and SQL
 - GitHub fro Portfolio Building
 
+### Data Exploration
+ This involved examining the data to address key questions, such as:
+
+- what is the total sales by product, region, and month?
+- what is the average sales per product?
+- what is the highest-selling product by total sales value?
+- what is the monthly sales totals for the current year?
+- who are the top 5 customers by total purchase amount?
+
+### Data Analysis
+These are some of the codes, queries and DAX expressions employed in the courese of the analyis:
+
+```SQL
+```
+
+### Data Visualisation
+FDKJDFKFLKDFLKDM
+
+
+
+ 
+
